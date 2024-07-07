@@ -1,5 +1,5 @@
 ## Các khóa học
-- Học jsp servlet sử dụng jakarta ee, hibernate: https://laptrinhjavaweb.com/khoa-hoc-java-web-co-ban-jsp-servlet-jdbc-va-mysql
+- Học jsp servlet sử dụng java ee, jakarta ee: https://laptrinhjavaweb.com/khoa-hoc-java-web-co-ban-jsp-servlet-jdbc-va-mysql
 
 ## Cộng đồng
 - Hỏi đáp, thảo luận: https://www.facebook.com/groups/laptrinhjavaweb
