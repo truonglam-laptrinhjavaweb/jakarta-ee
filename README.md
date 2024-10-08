@@ -1,5 +1,5 @@
 ## Các khóa học
-- Học jsp servlet: https://laptrinhjavaweb.com/khoa-hoc-java-web-co-ban-jsp-servlet-jdbc-va-mysql
+- Chi tiết: https://laptrinhjavaweb.com/khoa-hoc-java-web-co-ban-jsp-servlet-jdbc-va-mysql
 
 ## Cộng đồng
 - Hỏi đáp, thảo luận: https://www.facebook.com/groups/laptrinhjavaweb
