@@ -1,8 +1,1 @@
-## Các khóa học
-- Chi tiết: https://laptrinhjavaweb.com/khoa-hoc-java-web-co-ban-jsp-servlet-jdbc-va-mysql
-
-## Cộng đồng
-- Hỏi đáp, thảo luận: https://www.facebook.com/groups/laptrinhjavaweb
-- Nhận thông báo qua zalo: https://zalo.me/g/pvnkgo753
-- Nhận thông báo qua facebook: https://www.facebook.com/laptrinhjavaweb
-- Nhận thông báo qua youtube: https://www.youtube.com/@Laptrinhjavaweb
+Các project: Jsp, Servlet, JSTL, Jakarta Mail, Jakarta Validation và các project liên quan khác
